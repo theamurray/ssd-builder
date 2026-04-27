@@ -16,7 +16,7 @@ This project is a portfolio-adapted version of a tool developed for use in a uni
 
 ## Live Demo
 
-[View the live site](https://theamurray.github.io/ssd-builder)
+[View the live site](https://theamurray.github.io/ssd-generator)
 
 ---
 
