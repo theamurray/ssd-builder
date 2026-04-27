@@ -101,7 +101,6 @@ npm run build
 ssd-generator/
 │
 ├── index.html             # Main HTML structure
-├── vite.config.js         # Vite configuration for GitHub Pages
 ├── public/                # Static assets
 ├── src/
 │   ├── main.js            # Entry point
